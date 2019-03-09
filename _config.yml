@@ -1,14 +1,13 @@
-title:             Clean Blog
+title:             Medicines
 email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+description:       A Blog about Medical Science.
+author:            Nidhi Kunal Jha
+baseurl:           "/"
+url:               "http://nidhikunaljha.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+
+github_username:   nidhikunaljha
 
 # Build settings
 markdown:          kramdown
