@@ -12,7 +12,7 @@ The loss of cholinergic neurons in the hippocampus and frontal cortex is a featu
 
 The two main microscopic feature associated of the AD are:
 
-* Extracellular amyloid plagues, consisting of amorphous extracellular deposits of beta-amyloid proteins known as *Aβ*  . Excessive *Aβ* formation results in neurotoxicity.
+* Extracellular amyloid plaques, consisting of amorphous extracellular deposits of beta-amyloid proteins known as *Aβ*  . Excessive *Aβ* formation results in neurotoxicity.
 * Intracellular neurofibrillary tangles comprising filaments of phosphorylated form of a microtubule-associated protein *τ*
 
 Other neurotransmitter like glutamate and neuro peptide are also affected in AD.
