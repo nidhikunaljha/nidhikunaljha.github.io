@@ -6,6 +6,8 @@ date:   2019-03-30 15:05:00 +0530
 background: '/img/posts/alzheimer.jpg'
 ---
 
+_Note these are a series of articles written to help students in B.Pharm and M.Pharm studying Pharmocolgy. Links to relevant books are at the bottom of the aritcles._
+
 Alzheimer's Diseases (AD) is a progressive neuro dengerative disorder which affects the older individuals and is the most common cause of dementia. Dementia refers to impairment of intellect, memory and personality cognitive functions. 
 AD is mostly associated with brain shrinkage and localized loss of neurons, mainly in the hippocampus and basal forebrain.
 The loss of cholinergic neurons in the hippocampus and frontal cortex is a feature of this disease, which mainly leads to cognitive deficit and short term memory loss.
@@ -88,6 +90,18 @@ Therapeutics Approaches towards Alzheimer are :
 	
 	* Dopaminergic agonist
 	* Improve memory, concentration, vigilance, giddiness and tinnitus.
+	
+	
+---
+
+
+
+
+**Books**
+
+1. [Rang & Dale's Pharmacology by James M. Ritter, Rod J. Flower, Graeme Henderson, Humphrey P. Rang](https://www.amazon.in/Dales-Pharmacology-Ritter-FBPharmacolS-FMedSci/dp/0702053627)
+2. [Essentials of Medical Pharmacology by K. D. Tripathi](https://www.amazon.in/Essentials-Medical-Pharmacology-K-Tripathi/dp/9352704991)
+3. [Basic and Clinical Pharmacology by Bertram Katzung](https://www.amazon.in/Basic-Clinical-Pharmacology-Bertram-Katzung/dp/1259641155)	
 
 
 
