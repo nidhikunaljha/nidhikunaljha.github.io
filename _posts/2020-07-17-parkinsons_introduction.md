@@ -43,6 +43,7 @@ Dopamine processing in a synapse. After release dopamine can either be taken up 
 
 <img src="/img/posts/IMG-02.png" alt="Image of Dopamine metabolism" width="500"/>
 
+Source of above image is [here](https://www.researchgate.net/figure/Dopaminergic-synapse-and-dopamine-metabolism-a-b-In-the-presynaptic-terminal-of_fig1_259653396)
 
 ---
 
